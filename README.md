@@ -69,7 +69,7 @@ mvn spring-boot:run
 The app will start on: http://localhost:8080
 
 🧑‍💻 Author
-Rahul Kumar Singh
-📧 rahulkumar8684singh@gmail.com
-🔗 GitHub – @RahUlkr23r
+Sahil Asneh 
+📧 sahilasneh12345@gmail.com
+🔗 GitHub – @sahil-2511
 
